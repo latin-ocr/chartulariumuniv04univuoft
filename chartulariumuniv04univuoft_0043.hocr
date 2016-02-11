@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./chartulariumuniv04univuoft_0043.png"; bbox 0 0 2502 3418; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 831 978 1511 1042">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 831 978 1511 1042">
+     <span class='ocr_line' id='line_1_1' title="bbox 831 978 1511 1042; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 831 978 1511 1042; x_wconf 79' lang='lat' dir='ltr'><strong>CHARTULARIUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 621 1163 1737 1220">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 621 1163 1737 1220">
+     <span class='ocr_line' id='line_1_2' title="bbox 621 1163 1737 1220; baseline -0.005 0"><span class='ocrx_word' id='word_1_2' title='bbox 621 1166 1199 1220; x_wconf 83' lang='lat' dir='ltr'><strong>UNIVERSITATIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1263 1163 1737 1216; x_wconf 81' lang='lat' dir='ltr'>PARISIENSIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 959 1485 1397 1540">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 959 1485 1397 1540">
+     <span class='ocr_line' id='line_1_3' title="bbox 959 1485 1397 1540; baseline -0.005 -3"><span class='ocrx_word' id='word_1_4' title='bbox 959 1485 1397 1540; x_wconf 83' lang='lat' dir='ltr'><strong>PARSQUARTA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 354 1650 1999 1703">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 354 1650 1999 1703">
+     <span class='ocr_line' id='line_1_4' title="bbox 354 1650 1999 1703; baseline -0.006 0"><span class='ocrx_word' id='word_1_5' title='bbox 354 1659 423 1703; x_wconf 83' lang='lat' dir='ltr'><strong>AB</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 461 1658 612 1702; x_wconf 87' lang='lat' dir='ltr'><strong>ANNO</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 652 1655 1126 1702; x_wconf 80' lang='lat' dir='ltr'>MCGGLXXXXIIII</span> <span class='ocrx_word' id='word_1_8' title='bbox 1165 1654 1342 1702; x_wconf 73' lang='lat' dir='ltr'>USQUE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1380 1653 1451 1696; x_wconf 88' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1490 1651 1686 1695; x_wconf 88' lang='lat' dir='ltr'><strong>ANNUM</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1726 1650 1999 1695; x_wconf 80' lang='lat' dir='ltr'>MGCGGLII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 612 1915 1748 1959">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 612 1915 1748 1959">
+     <span class='ocr_line' id='line_1_5' title="bbox 612 1915 1748 1959; baseline -0.006 -1"><span class='ocrx_word' id='word_1_12' title='bbox 612 1922 697 1959; x_wconf 87' lang='lat' dir='ltr'><strong>RES</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 727 1921 916 1958; x_wconf 86' lang='lat' dir='ltr'>PROPRIE</span> <span class='ocrx_word' id='word_1_14' title='bbox 948 1920 1000 1956; x_wconf 89' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1034 1917 1407 1955; x_wconf 83' lang='lat' dir='ltr'><strong>UNIVERSITATEM</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1437 1915 1748 1952; x_wconf 79' lang='lat' dir='ltr'><strong>PERTINENTES</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
